@@ -1,18 +1,12 @@
 nav:
-  - title: "Services"
+  - title: "Our Villa"
     section: services
 
-  - title: "Portfolio"
+  - title: "La Managa Club Guide"
     section: portfolio
     
-  - title: "About"
+  - title: "Photos"
     section: timeline
-
-  - title: "Team"
-    section: team
-
-  - title: "Contact"
-    section: contact
 
   - title: "Theme Source"
     url: https://github.com/raviriley/agency-jekyll-theme/
