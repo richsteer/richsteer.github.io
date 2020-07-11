@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: La Manga Club Guide
+  subtitle: All you need to know about La Manga Club
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
