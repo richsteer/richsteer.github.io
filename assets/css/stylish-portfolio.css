@@ -21,6 +21,7 @@ body {
 .content-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
+  font-weight: 700;
 }
 
 .content-section-heading h2 {
