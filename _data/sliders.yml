@@ -3,9 +3,11 @@
   captions: true
   images:
     - src: /assets/img/la-manga-club-villa-las-palmeras-9.jpg
-      alt: Minimum required attributes
+      alt:
+    - src: /assets/img/la-manga-club-villa-las-palmeras-9-lounge1.jpg
+      alt:
   settings:
-    height: 400
+    height: "'auto'"
     initialHeight:
     maxHeight:
     interval:
@@ -15,6 +17,9 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+
+
+
 
 - selector: slider2
   bullets: true
