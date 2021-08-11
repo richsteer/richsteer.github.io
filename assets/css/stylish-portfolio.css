@@ -387,11 +387,11 @@ a:visited {
 }
 /* mouse over link blue */
 a:hover {
-  color: #3177e0;
+  color: #285ca8;
 }
 /* selected link blue */
 a:active {
-  color: #3177e0;
+  color: #285ca8;
 }
 
 
