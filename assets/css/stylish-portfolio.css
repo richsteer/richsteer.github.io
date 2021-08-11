@@ -377,6 +377,25 @@ a:hover, a:focus, a:active {
   color: #ecb807 !important;
 }
 
+/* unvisited link grey */
+a:link {
+  color: #777;
+}
+/* visited link grey */
+a:visited {
+  color: #777;
+}
+/* mouse over link blue */
+a:hover {
+  color: #0CF;
+}
+/* selected link blue */
+a:active {
+  color: #0CF;
+}
+
+
+
 /*
 .card-img-top {
     width: 100%;
