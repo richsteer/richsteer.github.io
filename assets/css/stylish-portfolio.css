@@ -379,19 +379,19 @@ a:hover, a:focus, a:active {
 
 /* unvisited link grey */
 a:link {
-  color: #777;
+  color: #96c0ff;
 }
 /* visited link grey */
 a:visited {
-  color: #777;
+  color: #96c0ff;
 }
 /* mouse over link blue */
 a:hover {
-  color: #0CF;
+  color: #3177e0;
 }
 /* selected link blue */
 a:active {
-  color: #0CF;
+  color: #3177e0;
 }
 
 
